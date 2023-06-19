@@ -4,7 +4,7 @@
     echo "a[$key]=$value <br/>";
 
     echo "-------------<br/>";
-    $b = array("12","23","10","5");
+    $b = array("1555","23","10","5");
     $sum =0;
     foreach($b as $key=>$value){
     $sum += $value;
