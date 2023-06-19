@@ -1,5 +1,5 @@
 <?php
-    $con = array("Cả"=>"Tùng","Ba"=>"Hoà","Tư"=>"Lan","Út"=>"Minh");
+    $con = array("Cả"=>"Chính","Ba"=>"Hoà","Tư"=>"Lan","Út"=>"Minh");
     echo "<b> Anh cả </b>: ".$con["Cả"]."<br/>";
     echo "<b> Em út </b>: ".$con["Út"]."<br/>";
     foreach ($con as $key=>$value){
